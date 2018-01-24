@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void someMethod() {
         int someInt = 1;
+        boolean someBoolean = true;
     }
 }
