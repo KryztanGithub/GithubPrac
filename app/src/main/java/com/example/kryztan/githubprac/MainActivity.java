@@ -11,4 +11,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     }
+
+    public void someMethod() {
+        int someInt = 1;
+        boolean someBoolean = false;
+    }
 }
