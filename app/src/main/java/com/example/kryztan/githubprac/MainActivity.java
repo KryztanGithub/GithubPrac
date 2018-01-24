@@ -10,12 +10,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        //resolve conflicts
+
         //test code
 
     }
 
     public void someMethod() {
         int someInt = 1;
-        boolean someBoolean = true;
+        boolean someBoolean = false;
     }
 }
