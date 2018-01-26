@@ -23,4 +23,8 @@ public class MainActivity extends AppCompatActivity {
 
         //test
     }
+
+    public void someFunc() {
+        //asasa
+    }
 }
